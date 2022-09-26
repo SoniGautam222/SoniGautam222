@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoniGautam222
 - 👀 I’m interested in full stack web developement 
-- 🌱 I’m currently learning data structures 
+- 🌱 I’m currently MERN. 
 - 💞️ I’m looking to collaborate on software engineer jobs
 - 📫 How to reach me mail me at gautamjisoni222@gmail.com
 
