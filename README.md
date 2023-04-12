@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoniGautam222
+- 👋 # Hi, I’m @SoniGautam222
 - 👀 I’m interested in frontend developement & react 
 - 🌱 I’m currently working on the project which is totally based on frontend and react. 
 - 💞️ I’m looking to collaborate on software engineer jobs
