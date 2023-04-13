@@ -1,5 +1,5 @@
-# - 👋  Hi, I’m Soni Gautam 
-# - 👀 I’m interested in full stack web development
+# -  Hello, My name is Soni Gautam 
+# -  I’m interested in full stack web development
 - 🌱 I’m currently a student of the B.Tech final year from Information Technology Stream.
 - 💞️ I’m looking to collaborate on software engineer jobs
 - 📫 How to reach me mail me at gautamjisoni222@gmail.com
